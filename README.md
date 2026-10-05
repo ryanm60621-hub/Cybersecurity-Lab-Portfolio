@@ -18,7 +18,6 @@ This repository contains selected cybersecurity labs completed as part of my cou
 - All offensive security activity was performed in authorized academic lab environments.
 - Screenshots in this repository were taken from my own completed lab work.
 - Original course manuals and full assignment instructions are not included.
-- Before publishing, review screenshots one final time for usernames, reservation numbers, browser history, or other information you do not want public.
 
 ## Skills Demonstrated
 Vulnerability scanning, web application security, network analysis, incident response, controlled exploitation, Linux and Windows command-line work, and security documentation.
