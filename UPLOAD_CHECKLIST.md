@@ -7,3 +7,4 @@
 5. Upload the contents of this folder so `README.md` is at the top level.
 6. Make the project public only after the final screenshot review.
 7. Add the GitLab project link to your LinkedIn Featured section and resume portfolio section.
+git.ignore
